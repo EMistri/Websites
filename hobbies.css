@@ -1,0 +1,31 @@
+h1 {
+	color: darkred;
+	/*border-color: purple;
+	border-width: 5px;
+	border-style: solid;
+}*/
+	border: 5px dashed purple;
+	}
+
+h4 {
+	color: lightslategrey;
+}
+li {
+	color: deepskyblue;
+}
+
+body { 
+	background: pink;
+/*background: url(https://dbw4iivs1kce3.cloudfront.net/680x390/2017/01/chat-bengal2.jpg); 
+background-repeat: no-repeat;
+background-size: cover;*/
+}
+	
+div {background: #2498ab;
+}
+
+p {color: #ecf0f1}
+
+h4 {
+	background: rgb(255,100,80);
+}
